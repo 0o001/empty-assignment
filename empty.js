@@ -12,3 +12,7 @@ let {} = ((function() {
           world
           hello
           world*/
+
+//Only run sloppy mode
+let = 'hello';
+console.log(let);
